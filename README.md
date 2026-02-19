@@ -119,7 +119,7 @@ The free scanner covers the most common patterns. The **Claude Code Ops Kit** pr
 - 25-item Claude Code hardening checklist
 - Secrets injection guide (env vars, vaults)
 
-**[Get the Ops Kit on Gumroad →](https://gumroad.com/)** *(link placeholder)*
+**[Get the Ops Kit on Gumroad →](https://yurukusa.gumroad.com/l/cc-codex-ops-kit)**
 
 ---
 
