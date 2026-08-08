@@ -39,7 +39,7 @@ No server. No API calls. No data leaves your browser.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/risk-score-scanner.git
+git clone https://github.com/yurukusa/risk-score-web.git
 cd risk-score-scanner
 
 # Open in your default browser (no server needed)
@@ -71,7 +71,7 @@ See [Deploy to GitHub Pages](#deploy-to-github-pages) below.
 4. Click **Save**.
 5. GitHub Pages will publish the scanner at:
    ```
-   https://YOUR_USERNAME.github.io/risk-score-scanner/
+   https://yurukusa.github.io/risk-score-web/
    ```
 
 No build step, no dependencies — the single `index.html` is the entire app.
